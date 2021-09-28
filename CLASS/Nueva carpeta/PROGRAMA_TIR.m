@@ -1,0 +1,2 @@
+%%PROGRAMA TIR 
+clear all
